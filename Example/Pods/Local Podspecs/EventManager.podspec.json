@@ -1,0 +1,22 @@
+{
+  "name": "EventManager",
+  "version": "0.1.0",
+  "summary": "A short description of EventManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/acct<blob>=<NULL>/EventManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "acct<blob>=<NULL>": "andrei@fortify.pro"
+  },
+  "source": {
+    "git": "https://github.com/acct<blob>=<NULL>/EventManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EventManager/Classes/**/*"
+}
